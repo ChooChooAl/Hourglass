@@ -1,0 +1,6 @@
+[Icon Theme]
+Name=Hourglass
+Comment=Rotating orange-white hourglass (x50)
+Name[en_CA]=Hourglass
+Name[en_GB]=Hourglass
+Inherits=DMZ-White
